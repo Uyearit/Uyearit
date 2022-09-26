@@ -1,6 +1,8 @@
 - 👋 Hi
 My name is Uye Princess Arit. An Undergraduate Student of Computer Science National Open University.
 A Digital Marketer
+ALX Software Engineering Student
+Holberton School Student
 
 
 
@@ -22,7 +24,7 @@ All Software Development Application
 Software Engineering
 C, C++
 Java, HTML, REACT JS, PYTHON
-I kinda Like my school wow. @ALX, @Holberton
+
 
 
 - 💞️ I’m looking to collaborate on.....
@@ -41,7 +43,3 @@ Facebook: https://www.facebook.com/uyearit23
 Twitter: https://www.twitter.com/UyeArit
 E-mail: uyearit23@gmail.com
 Instagram: https://www.instagram.com/mhiz_uyearit
-<!---
-Uyearit/Uyearit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
