@@ -39,7 +39,7 @@ All ICT software apporved jobs.
 
 
 - 📫 How to reach me
-Facebook: https://www.facebook.com/uyearit23
+Linkedin:https://www.linkedin.com/in/uye-princess-arit-a84a28159
 Twitter: https://www.twitter.com/UyeArit
 E-mail: uyearit23@gmail.com
-Instagram: https://www.instagram.com/mhiz_uyearit
+Facebook: https://www.facebook.com/uyearit23
