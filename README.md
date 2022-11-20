@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Holla
 My name is Uye Princess Arit. An Undergraduate Student of Computer Science National Open University.
 A Digital Marketer
 ALX Software Engineering Student
