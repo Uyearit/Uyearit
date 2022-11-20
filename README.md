@@ -39,11 +39,6 @@ All ICT software apporved jobs.
 
 
 
-🧰 Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
-
-
-
 - 📫 How to reach me
 Linkedin:https://www.linkedin.com/in/uye-princess-arit-a84a28159
 Twitter: https://www.twitter.com/UyeArit
