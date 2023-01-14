@@ -1,9 +1,4 @@
-- 👋 Holla
-My name is Uye Princess Arit. An Undergraduate Student of Computer Science National Open University.
-A Digital Marketer
-ALX Software Engineering Student
-Holberton School Student
-
+- 👋 Holla I'm Arit
 
 
 - 👀 I’m interested in ...
@@ -46,4 +41,4 @@ E-mail: uyearit23@gmail.com
 Facebook: https://www.facebook.com/uyearit23
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Uyearit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=26235B">
+<img src="https://github-readme-stats.vercel.app/api?username=Uyearit&&show_icons=true&title_color=bb2acf&_color=daf7dc&bg_color=FFFFFF">
