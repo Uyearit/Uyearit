@@ -39,6 +39,7 @@ Linkedin:https://www.linkedin.com/in/uye-princess-arit-a84a28159
 Twitter: https://www.twitter.com/UyeArit
 E-mail: uyearit23@gmail.com
 Facebook: https://www.facebook.com/profile.php?id=100089438610356
+Instagram: https://www.instagram.com/mhiz_uyearit/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Uyearit&&show_icons=true&title_color=bb2acf&_color=daf7dc&bg_color=FFFFFF">
