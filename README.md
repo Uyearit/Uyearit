@@ -43,4 +43,8 @@ I'm enthusiastic about connecting with like-minded professionals, collaborating 
 Let's build amazing digital experiences together! 💻✨
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Uyearit&&show_icons=true&title_color=bb2acf&_color=daf7dc&bg_color=FFFFFF">
+![Uyearit's Stats](https://github-readme-stats.vercel.app/api?username=Uyearit&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Uyearit's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Uyearit&theme=vue-dark&hide_border=true)
+
+![Uyearit's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uyearit&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
